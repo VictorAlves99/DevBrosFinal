@@ -1,0 +1,65 @@
+#cdProd{
+    position: absolute;
+    padding-left: 20px;
+}
+
+#QtdProd{
+    position: relative;
+    margin-left: 42%;
+}
+
+#ClienteNome{
+    position: absolute;
+    padding-left: 20px;
+}
+
+#ClienteCPF{
+    position: relative;
+    margin-left: 42%;
+}
+
+
+.divBotaoAdd{
+    margin-left: 82%;
+    margin-top: -38px;
+
+}
+
+#total{
+    position: absolute;
+    padding-left: 20px;
+   
+}
+
+#formaspgmto{
+    position: relative;
+    margin-left: 42%;
+
+}
+
+.divBotaoCompra{
+    margin-left: 82%;
+    margin-top: -40px;
+
+}
+
+.jumbotron{
+    margin-top: 15px;
+}
+
+.jumbotron h4{
+	margin-bottom: 20px;
+}
+
+
+.media-body h4{
+	margin-top: 27px;
+}
+
+.media{
+    margin-bottom: 20px;
+}
+
+faixapgmto{
+    padding-top: 20px;
+}
